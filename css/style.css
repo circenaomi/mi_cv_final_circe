@@ -1,0 +1,81 @@
+nav{
+    background-color: #0097A7;
+}
+nav .nav-wrapper {
+border-top: 10px solid #303F9F;
+} 
+body {
+display: flex;
+min-height: 100vh;
+flex-direction: column;
+}
+main {
+flex: 1 0 auto;
+}
+.page-footer{
+background-color:#0097A7;
+}
+.footer-copyright{
+background-color: #303F9F!important;
+}
+.mi_logo{
+width: 164px;
+}
+.imagen_perfil{
+width: 250px;
+border-radius: 50%;
+}
+.nombre{
+color: white;
+margin-top: 10%
+}
+.parallax_custom_color{
+background:#4CAF50;
+}
+.imagen_parallax{
+opacity: 0.8!important;
+}
+.elementos_centrados{
+text-align: center;
+}
+.imagen_conoceme{
+width: 250px;
+border: black groove 5px;
+padding: 10px;
+}
+
+.parallax-container {
+    position: relative;
+    overflow: hidden;
+    height: 500px;
+}
+.tam_primaria{
+    width: 197px;
+    border: brown groove;
+    padding: 3px;
+}
+.tam_secundaria{
+    width: 197px;
+    border: blue  groove;
+    padding: 3px;
+}
+.tam_preparatoria{
+    width: 250px;
+    border: cadetblue groove;
+    padding: 3px;
+}
+.tam_curso1{
+    width: 250px;
+}
+.tam_curso2{
+    width: 250px;
+}
+.fab{
+    font-size: 100px;
+}
+.fa-instagram:before {
+    color: #e4405f
+}
+.fa-whatsapp:before {
+    color: #25D366
+}
